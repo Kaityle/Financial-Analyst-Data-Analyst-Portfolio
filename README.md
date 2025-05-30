@@ -12,5 +12,5 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 In this section, I will go through projects that brieftly describing how technical tools haves been used to analyzing. 
 
-### Scenario-Based Financial Forecasting and Modeling of Target Corporation with Tableau Dashboard Visualization
+### 1. Scenario-Based Financial Forecasting and Modeling of Target Corporation with Tableau Dashboard Visualization
 **Excel File:** 
