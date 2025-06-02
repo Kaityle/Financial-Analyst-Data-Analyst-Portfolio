@@ -23,6 +23,6 @@ In this section, I will go through projects that brieftly describing how technic
 
 - **Skill:** financial Modeling, forecasting, scenario Analysis, DCF valuation, regression analysis, data visualization, tableau dashboard. 
 
-- **Technology:** Excel, Tableau
+- **Technical tools:** Excel, Tableau
 
 - **Result:** Built comprehensive financial models with 8 statements and DCF. Used forecast data for simple and multiple regressions to analyze insights. Created a Tableau dashboard to visualize key trends.
