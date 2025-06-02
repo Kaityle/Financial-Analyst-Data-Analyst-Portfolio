@@ -15,7 +15,7 @@ In this section, I will go through projects that brieftly describing how technic
 ### 1. Scenario-Based Financial Forecasting and Modeling of Target Corporation with Tableau Dashboard Visualization
 **Excel File:** [Scenario-Based Financial Forecasting and Modeling of Tartget Corporation](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/1d8aaa787351b97cbcee98d90686963cffaa0602/Target%20Financial%20Modeling.xlsx)
 
-**Tableau Public Dashboard Link:** [Financial Target Performance](https://public.tableau.com/views/TargetDashboard_17485814553630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Tableau Public Dashboard Link:** [Target Corp: Financial Forecast Dashboard](https://public.tableau.com/views/TargetDashboard_17485814553630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **Goal:** To develop a comprehensive financial model that includes scenario-based forecasting to evaluate how tariff policies may impact the performance of Target Corporation. The analysis also explores the relationship between tariff policies and the company's overall financial performance.
 
