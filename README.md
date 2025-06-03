@@ -40,7 +40,12 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
  **Slide Deck Analysis:** [Sleep & Lifestyle Insights Slide Deck](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/8afd2419b9891c298520fb0822038cc16d8fb4c9/_IDS%20400%20Final%20Project.pdf)
 
-- **Goal:** This project uses Python to analyze how lifestyle factors affect sleep health. Regression models and visualizations uncover key patterns, offering insights to improve well-being. 
+- **Goal:** This project uses Python to analyze how lifestyle factors affect sleep health. Regression models, correlation matrices, and visualizations uncover key patterns, offering insights to improve well-being.
+
+
+
+
+ 
 
 
 
