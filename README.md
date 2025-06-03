@@ -29,7 +29,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Description:** This project aimed to evaluate how tariff policies could impact Target Corporation’s financial performance. I developed a comprehensive financial model using historical data through FY2023A-FY2025A, including all core financial statements and a 5-year forward-looking forecast. The model applied scenario-based forecasting to reflect different tariff policy outcomes. Additionally, I conducted both simple and multiple regression analyses to explore the relationship between tariffs, inflation, trade policy, and gross profit. An interactive Tableau dashboard was created to visualize performance trends and scenario comparisons.
 
-- **Skill:** financial Modeling, forecasting, scenario Analysis, DCF valuation, regression analysis, data visualization, tableau dashboard. 
+- **Skill:** Financial Modeling, Forecasting, Scenario Analysis, DCF Valuation, Regression Analysis, Data Visualization, Tableau Dashboard. 
 
 - **Technical tools:** Excel, Tableau
 
@@ -41,6 +41,14 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
  **Slide Deck Analysis:** [Sleep & Lifestyle Insights Slide Deck](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/8afd2419b9891c298520fb0822038cc16d8fb4c9/_IDS%20400%20Final%20Project.pdf)
 
 - **Goal:** This project uses Python to analyze how lifestyle factors affect sleep health. Regression models, correlation matrices, and visualizations uncover key patterns, offering insights to improve well-being.
+
+- **Description:** The Sleep Health and Lifestyle Analysis project aims to uncover the relationship between lifestyle factors and sleep health using Python. With tools like pandas for data manipulation, matplotlib and seaborn for data visualization, and advanced regression models for analysis, the project identifies critical patterns and correlations. By examining factors such as physical activity, stress levels, and BMI, the study provides actionable insights to improve sleep quality and overall well-being.
+
+- **Skill:** Data Extraction, Data Manipulation, Data Visualization, Statistical Analysis, Python Programming
+
+- **Technical Tools:** Python, Google Colab, Jypyter Notebook
+
+- **Result:** Extracted the dataset from Kaggle and performed data manipulation using pandas. Successfully applied visualizations and regression models to uncover key insights about lifestyle factors affecting sleep health. The findings were summarized and presented in a slide deck, including clear recommendations to improve well-being.
 
 
 
