@@ -17,7 +17,7 @@ In this section, I will go through projects that brieftly describing how technic
 
 **Tableau Public Dashboard Link:** [Target Corp: Financial Forecast Dashboard](https://public.tableau.com/views/TableauProject_17489193825120/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Documentation Report:**
+**Documentation Report:** [Target Financial Modeling Report] (https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/8d1a18780727d61f669f61a8e4b21473eb5c03b9/Target's%20Financial%20Modeling.pdf) 
 
 - **Goal:** To develop a comprehensive financial model that includes scenario-based forecasting to evaluate how tariff policies may impact the performance of Target Corporation. The analysis also explores the relationship between tariff policies and the company's overall financial performance.
 
