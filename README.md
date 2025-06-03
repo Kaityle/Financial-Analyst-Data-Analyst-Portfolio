@@ -37,3 +37,5 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
  ### 2.Sleep & Lifestyle Insights: A Data-Driven Analysis using Python
  **Code File:** [Sleep & Lifestyle Insights: A Data-Driven Analysis using Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/918a283e01b634252902f9460dcdf38babf3956f/Sleep%20%26%20Lifestyle%20Analysis.ipynb)
+
+ **Slide Deck Analysis:** [Sleep & Lifestyle Insights Slide Deck](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/8afd2419b9891c298520fb0822038cc16d8fb4c9/_IDS%20400%20Final%20Project.pdf)
