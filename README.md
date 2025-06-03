@@ -35,4 +35,5 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Result:** Built comprehensive financial models with 8 statements and DCF. Used forecast data for simple and multiple regressions to analyze insights. Created a Tableau dashboard to visualize key trends.
 
- ### 2.Sleep & Lifestyle Insights: A Data-Driven Analysis 
+ ### 2.Sleep & Lifestyle Insights: A Data-Driven Analysis using Python
+ ** Code File:** [Sleep & Lifestyle Insights: A Data-Driven Analysis using Python]
