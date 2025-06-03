@@ -1,4 +1,4 @@
-# Kaity Le | Financial Analyst | Data Analyst Portfolio
+# Kaity Le | Financial Analyst | Business Analyst Portfolio
 ## About
 Hi, I'm Kaity! I hold a dual academic background in Information Decision Science and Corporate Finance, earning Bachelor of Science degrees in both fields. Through my studies, I’ve built a strong foundation in finance and developed a passion for applying technical and analytical skills to extract meaningful business insights.
 
