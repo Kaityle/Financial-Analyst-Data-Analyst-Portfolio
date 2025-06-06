@@ -55,6 +55,8 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 **Report Documentation:** [Balance Sheet Building and Analysis](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/288e0f5423c0822b8cbf7ed0f8934818a982fd41/Balance%20Sheet%20Builders%20using%20VBA%20Project%20Report.pdf)
 
+**Slide Deck:** [Balance Sheet Builder and Analysis](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/f9052cdca84df44d8553f1193686aa86e464163a/Balance%20Sheet%20Builder%20Project%20Presentation.pdf)
+
 -**Goal:** The goal of this project is to simplify and consolidate Amazon’s complex financial documents into a single, user-friendly balance sheet using Excel and VBA to automate data processing and apply financial formulas for easy analysis of the company’s financial health.
 
 -**Description:** This project addresses the challenge of interpreting dense and complex financial documents by collecting Amazon’s financial data from multiple sources and consolidating it into a streamlined balance sheet. Using Excel and VBA, we automated the extraction and organization of key financial data, enabling the calculation of important financial ratios such as liquidity, debt-to-equity, and working capital. This approach creates a clear and efficient tool that facilitates quick and accurate assessment of Amazon’s fiscal status over multiple years.
