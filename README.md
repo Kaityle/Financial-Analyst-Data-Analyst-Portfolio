@@ -53,7 +53,27 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 ### 3. Balance Sheet Builder using Visual Basic for Applications (VBA) in Excel
 **Excel ( include VBA code) File:** [Balance Sheet Builder using VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/237fc48e51b5e46091dabfed2e191b60c97bc53d/Balance%20Sheet%20Builder%20using%20VBA.xlsm)
 
-**Report Documentation:** [Balance Sheet Building and Analysis]()
+**Report Documentation:** [Balance Sheet Building and Analysis](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/288e0f5423c0822b8cbf7ed0f8934818a982fd41/Balance%20Sheet%20Builders%20using%20VBA%20Project%20Report.pdf)
+
+-**Goal:** The goal of this project is to simplify and consolidate Amazon’s complex financial documents into a single, user-friendly balance sheet using Excel and VBA to automate data processing and apply financial formulas for easy analysis of the company’s financial health.
+
+-**Description:** This project addresses the challenge of interpreting dense and complex financial documents by collecting Amazon’s financial data from multiple sources and consolidating it into a streamlined balance sheet. Using Excel and VBA, we automated the extraction and organization of key financial data, enabling the calculation of important financial ratios such as liquidity, debt-to-equity, and working capital. This approach creates a clear and efficient tool that facilitates quick and accurate assessment of Amazon’s fiscal status over multiple years.
+
+-**Skill:** Financial Analyst, Excel, VBA Programming, Problem Soslving
+
+-**Result:** Successfully developed a complete balance sheet and calculated key financial ratios from raw data extracted from Amazon’s financial reports. Based on this analysis, Amazon’s current performance indicates strong liquidity, healthy working capital, and a favorable debt-to-equity position.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
