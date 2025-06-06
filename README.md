@@ -50,6 +50,8 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Result:** Extracted the dataset from Kaggle and performed data manipulation using pandas. Successfully applied visualizations and regression models to uncover key insights about lifestyle factors affecting sleep health. The findings were summarized and presented in a slide deck, including clear recommendations to improve well-being.
 
+### 3. Balance Sheet Builder using Visual Basic for Applications (VBA) in Excel
+**Excel ( include VBA code) File:** [Balance Sheet Builder using VBA]
 
 
 
