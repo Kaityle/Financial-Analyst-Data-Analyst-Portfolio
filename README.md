@@ -57,13 +57,13 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 **Slide Deck:** [Balance Sheet Builder and Analysis](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/f9052cdca84df44d8553f1193686aa86e464163a/Balance%20Sheet%20Builder%20Project%20Presentation.pdf)
 
--**Goal:** The goal of this project is to simplify and consolidate Amazon’s complex financial documents into a single, user-friendly balance sheet using Excel and VBA to automate data processing and apply financial formulas for easy analysis of the company’s financial health.
+- **Goal:** The goal of this project is to simplify and consolidate Amazon’s complex financial documents into a single, user-friendly balance sheet using Excel and VBA to automate data processing and apply financial formulas for easy analysis of the company’s financial health.
 
--**Description:** This project addresses the challenge of interpreting dense and complex financial documents by collecting Amazon’s financial data from multiple sources and consolidating it into a streamlined balance sheet. Using Excel and VBA, we automated the extraction and organization of key financial data, enabling the calculation of important financial ratios such as liquidity, debt-to-equity, and working capital. This approach creates a clear and efficient tool that facilitates quick and accurate assessment of Amazon’s fiscal status over multiple years.
+- **Description:** This project addresses the challenge of interpreting dense and complex financial documents by collecting Amazon’s financial data from multiple sources and consolidating it into a streamlined balance sheet. Using Excel and VBA, we automated the extraction and organization of key financial data, enabling the calculation of important financial ratios such as liquidity, debt-to-equity, and working capital. This approach creates a clear and efficient tool that facilitates quick and accurate assessment of Amazon’s fiscal status over multiple years.
 
--**Skill:** Financial Analyst, Excel, VBA Programming, Problem Soslving
+- **Skill:** Financial Analyst, Excel, VBA Programming, Problem Soslving
 
--**Result:** Successfully developed a complete balance sheet and calculated key financial ratios from raw data extracted from Amazon’s financial reports. Based on this analysis, Amazon’s current performance indicates strong liquidity, healthy working capital, and a favorable debt-to-equity position.
+- **Result:** Successfully developed a complete balance sheet and calculated key financial ratios from raw data extracted from Amazon’s financial reports. Based on this analysis, Amazon’s current performance indicates strong liquidity, healthy working capital, and a favorable debt-to-equity position.
 
 
 
