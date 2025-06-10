@@ -70,6 +70,20 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 **Repport Documentation:** [Churn ML using Python Report](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/78b59e9d36fc7162e1b1b2f7d15fca3d661c998e/ChurnML%20using%20Python%20Report.pdf)
 
+- **Goal:** The goal of this project is to predict customer churn in the telecom industry using machine learning. It also aims to uncover key drivers of churn to support proactive customer retention strategies.
+
+- **Description:** Using a dataset of 7,043 customers with 21 features, the project applied preprocessing, statistical analysis, and feature engineering to prepare the data for modeling. Three algorithms—Logistic Regression, Random Forest, and k-NN—were trained and evaluated using accuracy, F1 score, and AUC. Feature importance and correlation analysis were used to identify the most predictive variables. The entire process was implemented in Python via Jupyter Notebook.
+
+- **Skill:** Data Manipulation & Analysis: Pandas, NumPy; Visualization: Matplotlib, Seaborn; Machine Learning: Scikit-learn; Modeling Techniques: Logistic Regression, Random Forest, k-NN; Model Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC, Confusion Matrix.
+
+- **Result:** Logistic Regression achieved the best performance with 80.4% accuracy and an AUC of 0.842. Key churn predictors included short tenure, fiber internet, electronic check payments, and month-to-month contracts.
+
+
+
+
+
+
+
 
 
 
