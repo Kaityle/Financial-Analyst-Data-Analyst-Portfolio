@@ -68,6 +68,8 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 ### 4. Churn Machine Learning: Predictive Retention for Telecom Using Python
 **Code File:** [ChurnML using Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/444103bd9b3fea0a5e11606cf90dede5fa3df74b/Churn%20Machine%20Learning%20using%20Python.ipynb)
 
+**Repport Documentation:** [Churn ML using Python Report](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/78b59e9d36fc7162e1b1b2f7d15fca3d661c998e/ChurnML%20using%20Python%20Report.pdf)
+
 
 
 
