@@ -65,6 +65,9 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Result:** Successfully developed a complete balance sheet and calculated key financial ratios from raw data extracted from Amazon’s financial reports. Based on this analysis, Amazon’s current performance indicates strong liquidity, healthy working capital, and a favorable debt-to-equity position.
 
+### 4. Churn Machine Learning: Predictive Retention for Telecom Using Python
+**Code File:** [ChurnML using Python]()
+
 
 
 
