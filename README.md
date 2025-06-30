@@ -9,10 +9,9 @@ I’m excited to bring my technical expertise, curiosity, and analytical mindset
 Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/d5e3d8c621f50d691f0ca1d6916086e074c7ccbb/Ngoc%20Ngan%20Ha%20Le%20resume.pdf)
 
 ## Table of Contents
-- [Portfolio Projects](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
 - [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#financial-forecasting-and-modeling-for-target-corporation-with-scenario-based-tableau-dashboard-visualization)
--  Tableau
-- [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#sleep-&-lifestyle-insights:-a-data-driven-analysis-using-Python)
+- Tableau
+- [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#sleep&-lifestyle-insights:-a-data-driven-analysis-using-Python)
 - [Advanced Excel VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#balance-sheet-builder-using-visual-basic-for-applications-(VBA)-in-excel)
 - [Machine Learning](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#churn-machine-learning:-predictive-retention-for-telecom-using-python)
 
