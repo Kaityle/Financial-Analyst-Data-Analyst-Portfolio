@@ -10,7 +10,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 ## Table of Contents
 - [Portfolio Projects](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
--  Financial Modeling
+- [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#)
 -  Tableau
 -  Python
 
