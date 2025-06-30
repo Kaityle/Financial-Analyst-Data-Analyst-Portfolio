@@ -6,7 +6,7 @@ I’m driven by the challenge of translating data into strategy—using tools li
 
 I’m excited to bring my technical expertise, curiosity, and analytical mindset to an entry-level role in finance. 
 
-Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/d5e3d8c621f50d691f0ca1d6916086e074c7ccbb/Ngoc%20Ngan%20Ha%20Le%20resume.pdf)
+Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/c23c7897a126dd8c8ce31b44cf3d516ea2e34319/NgocNganHaLe_Resume_2025.pdf)
 
 ## Table of Contents
 - [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#financial-forecasting-and-modeling-for-target-corporation-with-scenario-based-tableau-dashboard-visualization)
