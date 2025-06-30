@@ -11,9 +11,9 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 ## Table of Contents
 - [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#financial-forecasting-and-modeling-for-target-corporation-with-scenario-based-tableau-dashboard-visualization)
 - Tableau
-- [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#sleep&-lifestyle-insights:-a-data-driven-analysis-using-Python)
+- [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#sleep-and-lifestyle-insights-data-driven-analysis-using-Python)
 - [Advanced Excel VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#balance-sheet-builder-using-visual-basic-for-applications-(VBA)-in-excel)
-- [Machine Learning](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#churn-machine-learning:-predictive-retention-for-telecom-using-python)
+- [Machine Learning](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#churn-machine-learning-predictive-retention-for-telecom-using-python)
 
 ## Portfolio Projects
 
@@ -34,7 +34,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Result:** Delivered detailed financial models and DCF analysis showing Target may face short-term tariff impacts but will recover quickly. The undervalued DCF suggests a buy opportunity. Regression results and a Tableau dashboard highlighted key trends.
 
- ### Sleep & Lifestyle Insights: A Data-Driven Analysis using Python
+ ### Sleep and Lifestyle Insights Data Driven Analysis using Python
  **Code File:** [Sleep & Lifestyle Insights: A Data-Driven Analysis using Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/918a283e01b634252902f9460dcdf38babf3956f/Sleep%20%26%20Lifestyle%20Analysis.ipynb)
 
  **Slide Deck Analysis:** [Sleep & Lifestyle Insights Slide Deck](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/9fe3c6b3e335571f8dfae1566fbd715cbe7dd7b8/Sleep%20%26%20Lifestyle%20Insights%20Slide%20Deck.pdf)
@@ -64,7 +64,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Result:** Successfully developed a complete balance sheet and calculated key financial ratios from raw data extracted from Amazon’s financial reports. Based on this analysis, Amazon’s current performance indicates strong liquidity, healthy working capital, and a favorable debt-to-equity position.
 
-### Churn Machine Learning: Predictive Retention for Telecom Using Python
+### Churn Machine Learning Predictive Retention for Telecom Using Python
 **Code File:** [ChurnML using Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/444103bd9b3fea0a5e11606cf90dede5fa3df74b/Churn%20Machine%20Learning%20using%20Python.ipynb)
 
 **Repport Documentation:** [Churn ML using Python Report](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/78b59e9d36fc7162e1b1b2f7d15fca3d661c998e/ChurnML%20using%20Python%20Report.pdf)
