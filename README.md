@@ -12,7 +12,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 - [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#financial-forecasting-and-modeling-for-target-corporation-with-scenario-based-tableau-dashboard-visualization)
 - Tableau
 - [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#sleep-and-lifestyle-insights-data-driven-analysis-using-Python)
-- [Advanced Excel VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#balance-sheet-builder-using-visual-basic-for-applications-(VBA)-in-excel)
+- [Advanced Excel VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#balance-sheet-builder-using-visual-basic-for-applications-in-excel)
 - [Machine Learning](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#churn-machine-learning-predictive-retention-for-telecom-using-python)
 
 ## Portfolio Projects
@@ -49,7 +49,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 - **Result:** Extracted and processed data from Kaggle using pandas. Applied visualizations and regression analyses revealing strong correlations between sleep quality and lifestyle factors. Summarized findings and recommendations in a clear slide deck.
 
-### Balance Sheet Builder using Visual Basic for Applications (VBA) in Excel
+### Balance Sheet Builder using Visual Basic for Applications in Excel
 **Excel ( include VBA code) File:** [Balance Sheet Builder using VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/237fc48e51b5e46091dabfed2e191b60c97bc53d/Balance%20Sheet%20Builder%20using%20VBA.xlsm)
 
 **Report Documentation:** [Balance Sheet Building and Analysis](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/288e0f5423c0822b8cbf7ed0f8934818a982fd41/Balance%20Sheet%20Builders%20using%20VBA%20Project%20Report.pdf)
