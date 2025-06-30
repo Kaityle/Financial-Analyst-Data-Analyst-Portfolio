@@ -16,7 +16,7 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 ## Portfolio Projects
 
-### 1. Financial Forecasting and Modeling for Target Corporation with Scenario Based Tableau Dashboard Visualization
+### Financial Forecasting and Modeling for Target Corporation with Scenario Based Tableau Dashboard Visualization
 **Excel File:** [Scenario-Based Financial Forecasting and Modeling of Tartget Corporation](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/1d8aaa787351b97cbcee98d90686963cffaa0602/Target%20Financial%20Modeling.xlsx)
 
 **Tableau Public Dashboard Link:** [Target Corp: Financial Forecast Dashboard](https://public.tableau.com/views/TableauProject_17489193825120/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
