@@ -10,11 +10,11 @@ Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst
 
 ## Table of Contents
 - [Portfolio Projects](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
-- [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#1-financial-forecasting-and-modeling-for-target-corporation-with-scenario-based-tableau-dashboard-visualization)
+- [Financial Modeling](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#financial-forecasting-and-modeling-for-target-corporation-with-scenario-based-tableau-dashboard-visualization)
 -  Tableau
-- [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#2-sleep-&-lifestyle-insights:-a-data-driven-analysis-using-Python)
-- Excel
-- Machine Learning
+- [Python](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#sleep-&-lifestyle-insights:-a-data-driven-analysis-using-Python)
+- [Advanced Excel VBA](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#balance-sheet-builder-using-visual-basic-for-applications-(VBA)-in-excel)
+- [Machine Learning](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/main/README.md#churn-machine-learning:-predictive-retention-for-telecom-using-python)
 
 ## Portfolio Projects
 
