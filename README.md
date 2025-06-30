@@ -9,7 +9,7 @@ I’m excited to bring my technical expertise, curiosity, and analytical mindset
 Here is my CV in [pdf](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/blob/d5e3d8c621f50d691f0ca1d6916086e074c7ccbb/Ngoc%20Ngan%20Ha%20Le%20resume.pdf)
 
 ## Table of Contents
-- [Portfolio Projects](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/edit/main/README.md#pỏtfolio-projects)
+- [Portfolio Projects](https://github.com/Kaityle/Financial-Analyst-Data-Analyst-Portfolio/main/README.md#pỏtfolio-projects)
 -  Financial Modeling
 -  Tableau
 -  Python
